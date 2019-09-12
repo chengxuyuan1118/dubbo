@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
-//修改
 @RestController
 public class DemoAction {
     @Reference(version = "1.0.0", timeout = 300)
