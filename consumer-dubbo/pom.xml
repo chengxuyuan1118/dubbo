@@ -30,7 +30,7 @@
             <artifactId>dubbo-spring-boot-starter</artifactId>
             <version>2.0.0</version>
         </dependency>
-		<!--少了依赖自己看-->
+		<!--少了依赖自己看哦哦-->
         <dependency>
             <groupId>com.101tec</groupId>
             <artifactId>zkclient</artifactId>
